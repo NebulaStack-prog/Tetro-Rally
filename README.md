@@ -7,7 +7,7 @@
 ## 💻 Project Run
 - Open with Python: [TetroRally.py](TetroRally.py)
   
-- Or download exe: [TicTacToe.exe](https://github.com/NebulaStack-prog/Calculator-v.1/releases/tag/v1.0)
+- Or download exe: [TetroRally.exe](https://github.com/NebulaStack-prog/Calculator-v.1/releases/tag/v1.0)
 
 ## 📄 Full Documentation
 - 🇷🇺  Russian version: [Documentation](TTT_RU.md)
