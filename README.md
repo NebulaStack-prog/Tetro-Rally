@@ -10,9 +10,9 @@
 - Or download exe: [TetroRally.exe](https://github.com/NebulaStack-prog/Calculator-v.1/releases/tag/v1.0)
 
 ## 📄 Full Documentation
-- 🇷🇺  Russian version: [Documentation](TTT_RU.md)
+- 🇷🇺  Russian version: [Documentation](TR_RU.md)
   
-- 🇺🇲  English version: [Documentation](TTT_EN.md)
+- 🇺🇲  English version: [Documentation](TR_EN.md)
   
 ## 📷 Screenshots
 ![](TR_1.png)
