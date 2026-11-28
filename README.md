@@ -39,9 +39,9 @@ A falling-block puzzle game with two simultaneous boards. The opponent selects m
 
 ## 📦 Installation
 
-- Download EXE from Releases: [more...](https://github.com/NebulaStack-prog/Tetro-Rally/releases/tag/v1.0.0)
+- Download the Windows executable from Releases: [more...](https://github.com/NebulaStack-prog/Tetro-Rally/releases/tag/v1.0.0)
 
-- Or run with Python: [more...](TetroRally.py)
+- Or run with Python original source code: [more...](TetroRally.py)
 
 ## 📄 Documentation
 
